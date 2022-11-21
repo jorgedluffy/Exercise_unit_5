@@ -1,0 +1,10 @@
+git add . // añadir todo add /rep/fich.tctg
+git commit -m 'mensaje' // primera subida
+git push // subida segunda
+git status//ver status
+git clone + link
+
+
+
+ls -l
+cd
